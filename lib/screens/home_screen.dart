@@ -58,7 +58,7 @@ class _HomeScreenState extends State<HomeScreen> {
         Padding(
           padding: EdgeInsets.only(top: 48, left: 28.8),
           child: Text(
-            'Welcome \n ',
+            'Welcome... \n ',
             style: GoogleFonts.playfairDisplay(
                 fontSize: 45.6, fontWeight: FontWeight.w700),
           ),
